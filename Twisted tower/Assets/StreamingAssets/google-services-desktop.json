@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "992759005977",
+    "firebase_url": "https://twisted-tower-default-rtdb.firebaseio.com",
+    "project_id": "twisted-tower",
+    "storage_bucket": "twisted-tower.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992759005977:android:6a799bde6f9c3fc2afbb88",
+        "android_client_info": {
+          "package_name": "com.Baocompany.Twistedtower"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBENl4_r69637NplwsP3t_25Pv00C2vaoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
