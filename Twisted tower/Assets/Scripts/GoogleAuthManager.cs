@@ -3,7 +3,6 @@ using Firebase;
 using Firebase.Auth;
 using Google;
 using UnityEngine.SceneManagement;
-using System.Threading.Tasks;
 
 public class GoogleAuthManager : MonoBehaviour
 {
