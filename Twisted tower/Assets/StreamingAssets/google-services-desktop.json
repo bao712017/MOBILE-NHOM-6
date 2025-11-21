@@ -1,27 +1,37 @@
 {
   "project_info": {
-    "project_number": "992759005977",
-    "firebase_url": "https://twisted-tower-default-rtdb.firebaseio.com",
-    "project_id": "twisted-tower",
-    "storage_bucket": "twisted-tower.firebasestorage.app"
+    "project_number": "783975870997",
+    "firebase_url": "https://game1-2a094-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "game1-2a094",
+    "storage_bucket": "game1-2a094.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:992759005977:android:6a799bde6f9c3fc2afbb88",
+        "mobilesdk_app_id": "1:783975870997:android:b09bdf94f42f6d4c65141c",
         "android_client_info": {
           "package_name": "com.Baocompany.Twistedtower"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "783975870997-rk5v6nav189s1e0ce0h4c6tvmq1pj18b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
-          "current_key": "AIzaSyBENl4_r69637NplwsP3t_25Pv00C2vaoE"
+          "current_key": "AIzaSyBzucnYwdVM3MLI1TeHNnMdW4Jf4uBOK1M"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783975870997-rk5v6nav189s1e0ce0h4c6tvmq1pj18b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
